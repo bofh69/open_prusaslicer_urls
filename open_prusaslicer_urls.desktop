@@ -1,0 +1,5 @@
+[Desktop Entry]
+Name=OpenPrusaSlicerUrls
+Exec=PATH/open_prusaslicer_urls.py %u
+Type=Application
+MimeType=x-scheme-handler/prusaslicer;
